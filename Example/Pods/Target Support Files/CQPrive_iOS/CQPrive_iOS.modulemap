@@ -1,0 +1,6 @@
+framework module CQPrive_iOS {
+  umbrella header "CQPrive_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

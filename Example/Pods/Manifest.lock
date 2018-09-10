@@ -1,0 +1,27 @@
+PODS:
+  - CQPrive_iOS (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CQPrive_iOS (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CQPrive_iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CQPrive_iOS: 28f2c17e4d6400e60d9a047653d92269c1004546
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: ed9d7e3efde92b3a16e18a8b892a40a985746bc4
+
+COCOAPODS: 1.5.3
